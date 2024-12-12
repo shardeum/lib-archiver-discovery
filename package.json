@@ -48,7 +48,7 @@
     "typescript": "5.0.2"
   },
   "dependencies": {
-    "@shardus/crypto-utils": "git+https://github.com/shardeum/lib-crypto-utils#dev",
+    "@shardus/crypto-utils": "git+https://github.com/shardeum/lib-crypto-utils#itn4",
     "axios": "1.6.1",
     "gts": "3.1.1"
   },
