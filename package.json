@@ -57,6 +57,7 @@
     "ts-jest": "29.4.1",
     "typescript": "5.9.2",
     "prettier": "2.8.8",
+    "gts": "6.0.2",
     "globals": "16.3.0"
   },
   "engines": {
@@ -64,8 +65,7 @@
   },
   "dependencies": {
     "@shardeum-foundation/lib-crypto-utils": "4.3.2",
-    "axios": "1.11.0",
-    "gts": "3.1.1"
+    "axios": "1.11.0"
   },
   "keywords": [],
   "author": "",
