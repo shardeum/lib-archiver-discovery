@@ -64,7 +64,7 @@
     "node": "24.7.0"
   },
   "dependencies": {
-    "@shardeum-foundation/lib-crypto-utils": "4.3.2",
+    "@shardeum-foundation/lib-crypto-utils": "4.4.0-node24.0",
     "axios": "1.12.0"
   },
   "keywords": [],
